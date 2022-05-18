@@ -1,0 +1,25 @@
+{
+  "name": "savelinks",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js",
+    "api": "nodemon api/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pepyn0/SaveLinks.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Pepyn0/SaveLinks/issues"
+  },
+  "homepage": "https://github.com/Pepyn0/SaveLinks#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
+}

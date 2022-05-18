@@ -1,0 +1,7 @@
+http://localhost:3000/
+
+####
+http://localhost:3000/?name=Discord&url=http://discord.com
+
+####
+http://localhost:3000/?name=Discord&url=http://discord.com&del=1
